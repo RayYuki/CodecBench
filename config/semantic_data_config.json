@@ -1,0 +1,47 @@
+{
+    "esc50": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/esc50/train",
+        "max_length_seconds": 5,
+        "is_multilabel": false
+    },
+    "vocalsound": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/vocalsound",
+        "max_length_seconds": 12,
+        "is_multilabel": false
+    },
+
+
+    "chord_recognition": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/chord_recoganition",
+        "max_length_seconds": 2.3,
+        "is_multilabel": false
+    },
+    "gtzan": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/GTZAN",
+        "max_length_seconds": 30,
+        "is_multilabel": false
+    },
+    "nsynth": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/Nsynth-test",
+        "max_length_seconds": 4,
+        "is_multilabel": false
+    },
+
+
+    "ravdess": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/ravdess",
+        "max_length_seconds": 7,
+        "is_multilabel": false
+    },
+    "crema_d": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/crema_d/test",
+        "max_length_seconds": 4.5,
+        "is_multilabel": false
+    },
+    "meld": {
+        "path": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/datasets/MELD",
+        "max_length_seconds": 300,
+        "is_multilabel": false
+    }
+
+}
