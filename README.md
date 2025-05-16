@@ -6,22 +6,22 @@
 
 ## Data
 We use 18 open-source datasets and 1 self-collected dataset.
-![Datasets overview](images\dataset_distribution.png)
+![Datasets overview](images/dataset_distribution.png)
 
 | Dataset | Metadata For Classification Task |
 |---------|----------------------------------|
 | [KeSpeech](https://huggingface.co/datasets/TwinkStart/KeSpeech) | / |
 | [LibriSpeech](https://huggingface.co/datasets/sanchit-gandhi/librispeech-data) | / |
 | [Libri2Mix](https://huggingface.co/datasets/Codec-SUPERB/libri2Mix_test_synth) | / |
-| [MELD](https://huggingface.co/datasets/TwinkStart/MELD) | [meld.csv](metadata\meld.csv) |
-| [CREMA-D](https://huggingface.co/datasets/confit/cremad-parquet) | [crema_d_test.csv](metadata\crema_d_test.csv) |
+| [MELD](https://huggingface.co/datasets/TwinkStart/MELD) | [meld.csv](metadata/meld.csv) |
+| [CREMA-D](https://huggingface.co/datasets/confit/cremad-parquet) | [crema_d_test.csv](metadata/crema_d_test.csv) |
 | [RAVDESS](https://huggingface.co/datasets/birgermoell/ravdess) | / |
-| [NSynth](https://huggingface.co/datasets/TwinkStart/Nsynth) | [nsynth.csv](metadata\nsynth.csv) |
-| [GTZAN](https://huggingface.co/datasets/TwinkStart/GTZAN) | [gtzan.csv](metadata\gtzan.csv) |
-| [Musical Instrument Chord Classification](https://huggingface.co/datasets/TwinkStart/chord_recoganition) | [chord_recognition.csv](metadata\chord_recognition.csv) |
+| [NSynth](https://huggingface.co/datasets/TwinkStart/Nsynth) | [nsynth.csv](metadata/nsynth.csv) |
+| [GTZAN](https://huggingface.co/datasets/TwinkStart/GTZAN) | [gtzan.csv](metadata/gtzan.csv) |
+| [Musical Instrument Chord Classification](https://huggingface.co/datasets/TwinkStart/chord_recoganition) | [chord_recognition.csv](metadata/chord_recognition.csv) |
 | [Laughterscape](https://huggingface.co/datasets/RayYuki/CodecBench_laughterscape_ver1.0) | / |
-| [VocalSound](https://huggingface.co/datasets/TwinkStart/vocalsound) | [vocalsound](metadata\vocalsound.csv) |
-| [ESC-50](https://huggingface.co/datasets/ashraq/esc50) | [esc50.csv](metadata\esc50.csv) |
+| [VocalSound](https://huggingface.co/datasets/TwinkStart/vocalsound) | [vocalsound](metadata/vocalsound.csv) |
+| [ESC-50](https://huggingface.co/datasets/ashraq/esc50) | [esc50.csv](metadata/esc50.csv) |
 | [CatDog](https://huggingface.co/datasets/TwinkStart/CatDog) | / |
 | [Gunshot Triangulation](https://huggingface.co/datasets/Codec-SUPERB/gunshot_triangulation_synth) | / |
 | [AudioSet](https://huggingface.co/datasets/Codec-SUPERB/audioset_synth) | / |
